@@ -1,6 +1,5 @@
-h1, h2, p {text-align: center; font-family:slabo; color:white;}
-a {color: #00ffa0;}
-body {width: 100%; background-color:#73cfe0; color:white;}
+h1, h2, p {text-align: center; font-family:slabo; color:black;}
+body {width: 100%; background-color:#73cfe0; color:black;}
 
 baw1{color:#FFFFFF; background:linear-gradient(178deg,#000000 15% ,#888888 45% ,#FFFFFF 100%); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent; text-shadow: -1px 1px 0 #000000, 1px 1px 0 #888888, 1px -1px 0 #DDDDDD, -1px -1px 0 #FFFFFF; font-family: PT Serif;  letter-spacing:2px;}
 
